@@ -1,0 +1,44 @@
+body{
+    background-image: url("img/letras.JPG");
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-header
+{
+    background-image: url("img/chine.jpg");
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 15px;
+}
+#consejo{
+    width: 50vw;
+    height: 40vh;
+    margin: 12% auto;
+    border-radius: 10px;
+}
+#consejo1{
+    width: 50vw;
+    height: 50vh;
+    margin: 12% auto;
+}
+.card-title{
+    text-align: center;
+    padding-top: 10%;
+    font-size: 20px;
+    font-weight: bold;
+}
+#boton{
+    margin-bottom: 0% ;
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 10px 30px;
+    background-color: rgba(12, 100, 71, 0.664);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
